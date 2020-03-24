@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 # Tenome
 Project on Vision for Blind made for Code2Create Hack 2020 <br/>
 
