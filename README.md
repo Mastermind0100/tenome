@@ -15,3 +15,10 @@ Project on Vision for Blind made for Code2Create Hack 2020 <br/>
 * [Suyash Agarwal](https://github.com/suyashagarwal1902)
 * [Antony Jose Kuruvilla](https://github.com/Ant2000)
 * [Ayush Bhushan](https://github.com/mechieanic)
+
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat)](http://badges.mit-license.org)
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
